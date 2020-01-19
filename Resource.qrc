@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resourse/rotation.png</file>
+        <file>Resourse/u3.png</file>
+        <file>Resourse/bringtofront.png</file>
+        <file>Resourse/delete.png</file>
+        <file>Resourse/sendtoback.png</file>
+        <file>Resourse/black1.jpg</file>
+        <file>Resourse/huidu1.png</file>
+        <file>Resourse/shiliang2.jpg</file>
+        <file>Resourse/wenzi2.png</file>
+        <file>Resourse/shiliang3.jpg</file>
+        <file>Resourse/u4.jpg</file>
+        <file>Resourse/pic/Close.png</file>
+        <file>Resourse/pic/Max.png</file>
+        <file>Resourse/pic/Min.png</file>
+        <file>Resourse/u4.png</file>
+        <file>Resourse/black.png</file>
+        <file>Resourse/huidu.png</file>
+        <file>Resourse/shiliang.png</file>
+        <file>Resourse/wenzi.png</file>
+        <file>Resourse/pic/arrow.png</file>
+        <file>Resourse/pic/down.png</file>
+        <file>Resourse/pic/6.png</file>
+        <file>Resourse/pic/7.png</file>
+        <file>Resourse/pic/8.png</file>
+        <file>Resourse/pic/3.png</file>
+        <file>Resourse/u5.png</file>
+        <file>Resourse/pic/18.png</file>
+    </qresource>
+</RCC>
